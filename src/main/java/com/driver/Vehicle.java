@@ -30,10 +30,12 @@ public class Vehicle {
     }
 
     public int getCurrentDirection() {
+
         return this.currentDirection;
     }
 
     public int getCurrentSpeed() {
+
         return this.currentSpeed;
     }
 
